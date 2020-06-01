@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArivaScraperMarvin", "ArivaScraperMarvin\ArivaScraperMarvin.csproj", "{D806E3F1-7AC9-436C-BC78-5A2BECA6581D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D806E3F1-7AC9-436C-BC78-5A2BECA6581D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D806E3F1-7AC9-436C-BC78-5A2BECA6581D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D806E3F1-7AC9-436C-BC78-5A2BECA6581D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D806E3F1-7AC9-436C-BC78-5A2BECA6581D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AC3C163-1CC5-4BF8-B1FB-12191088D12D}
+	EndGlobalSection
+EndGlobal
